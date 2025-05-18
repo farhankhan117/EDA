@@ -21,7 +21,7 @@ The dataset is now clean, with no missing values and properly encoded categorica
 
 ## Project Files
 - `Titanic-Dataset.csv` - Raw data  
-- `titanic_eda.ipynb` - EDA code and visualizations  
+- `Titanic_EDA.ipynb` - EDA code and visualizations  
 - `README.md` - This summary
 
 
