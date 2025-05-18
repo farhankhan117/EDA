@@ -6,7 +6,7 @@ Explore and preprocess the Titanic dataset to understand data, handle missing va
 ## Tools & Libraries
 - Python, Pandas, NumPy  
 - Matplotlib, Seaborn  
-- scikit-learn  
+ 
 
 ## Summary of Steps
 - Loaded data and examined structure and statistics  
